@@ -5,7 +5,7 @@ Summary of AI Competitions
 
 ## 二、数据预处理
 
-## 三、模型设计
+## 三、[模型](https://github.com/Decalogue/AI_Competition/tree/master/model)
 
 ## 四、调参
 
