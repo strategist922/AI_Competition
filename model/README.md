@@ -1,4 +1,4 @@
-# 模型汇总
+# 模型汇总 Baseline
 
 ## `TextCNN`
 
@@ -18,7 +18,7 @@ DataSet | Evaluation Criterion | Score
 
 DataSet | Evaluation Criterion | Score
 :------- | :----- | :----:
-[AI Challenger——细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018) | F1_mean | 0.690
+[AI Challenger——细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018) | F1_mean | 0.693
 
 
 ## `BiGRU`
@@ -38,4 +38,4 @@ DataSet | Evaluation Criterion | Score
 
 `Copyright © 2018 Decalogue. All Rights Reserved.`
 
-关于作者：[Decalogue](https://www.decalogue.cn)
+关于作者：[Decalogue]()
